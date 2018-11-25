@@ -1,0 +1,13 @@
+{
+"companyName": "JamesDonald_GlasgowCaledonianUniversity",
+"productName": "Alignment_SteeringBehaviours(2D)-JamesDonald",
+"dataUrl": "alignmentGL.data.unityweb",
+"wasmCodeUrl": "alignmentGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "alignmentGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
